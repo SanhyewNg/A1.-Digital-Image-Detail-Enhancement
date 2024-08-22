@@ -1,5 +1,4 @@
-# A1.-Digital-Image-Detail-Enhancement
-real-time digital image detail enhancement algorithms for digital cameras, improving image clarity and sharpness.
+# Digital Image Detail Enhancement
 
 - Developed real-time digital image detail enhancement algorithms for digital cameras, improving image clarity and sharpness.
 - Simulated algorithms in MATLAB and implemented them in FPGA using Verilog HDL and schematic design, ensuring real-time processing capabilities.
